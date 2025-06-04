@@ -17,8 +17,14 @@ THE GUIDELINE OF THIS PROJECT ;
 
 2. Planned URL Endpoints
 
-URL Path	Method	HTTP Variables	Session Variables	Database Operations
-/booking_form.php	GET	-	-	-
-/submit_booking.php	POST	amount, date, category, notes.
-/confirmation.php	GET	booking_id	None	Fetch booking by ID
-/view_bookings.php	GET	-	None	Fetch all bookings
+public/
+
+index.php
+create.php
+edit.php
+delete.php
+categories.php
+summary.php
+
+func/
+db.php
