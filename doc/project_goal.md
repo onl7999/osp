@@ -23,4 +23,4 @@ system-> Input amount ($0), choose date, choose category, add any extra notation
 user-> Inputs data
 system -> Store this information into the database for easy data extration when needed.
 
-
+End
