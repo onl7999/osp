@@ -14,7 +14,7 @@ how it may be processed: Input amount, date of expense, category and any extra n
 USERS -> user
 What do USERS do? -> interact with the system to input data, using drop down menus and manual inputs.
 
-Categories: educatio, entertainment, food, gifts,groceries, insurance, personal care, rent,savings, shopping, taxes, transport and others.
+Categories: education, entertainment, food, gifts, groceries, insurance, personal care, rent,savings, shopping, taxes, transport and others.
 
 Pseudocode of the process:
 Start
